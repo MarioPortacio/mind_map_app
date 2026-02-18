@@ -1,12 +1,12 @@
-# MindMapApp
+# 🕸️ MindMapApp
 
 Una solución para la creación de mapas mentales en Flutter. Organiza tus ideas en un canvas, personaliza cada detalle y exporta tus proyectos con facilidad.
 
-![Home de la App](img/home_page.png)
+![Home de la App](https://github.com/MarioPortacio/mind_map_app/blob/f67bf7b7c69f77d54122208dbda4051286b019ba/home_page.png)
 
-![Plantillas de la App](img/templates_page.png)
+![Plantillas de la App](https://github.com/MarioPortacio/mind_map_app/blob/f67bf7b7c69f77d54122208dbda4051286b019ba/templates_page.png)
 
-![Panel de edición de la App](img/editing.png)
+![Panel de edición de la App](https://github.com/MarioPortacio/mind_map_app/blob/f67bf7b7c69f77d54122208dbda4051286b019ba/editing.png)
 
 ## 🎯 Características
 
@@ -37,7 +37,8 @@ La aplicación aprovecha las capacidades del ecosistema Flutter para garantizar 
 
 1. Clona este repositorio:
    ```bash
-   git clone [https://github.com/MarioPortacio/mind_map_app.git](https://github.com/MarioPortacio/mind_map_app.git)
+   git clone https://github.com/MarioPortacio/mind_map_app.git
+
 
 
 2. Instala las dependencias necesarias:
