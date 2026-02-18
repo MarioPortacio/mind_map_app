@@ -2,11 +2,11 @@
 
 Una solución para la creación de mapas mentales en Flutter. Organiza tus ideas en un canvas, personaliza cada detalle y exporta tus proyectos con facilidad.
 
-![Home de la App](https://github.com/MarioPortacio/mind_map_app/blob/f67bf7b7c69f77d54122208dbda4051286b019ba/home_page.png)
+![Home de la App](https://github.com/MarioPortacio/mind_map_app/blob/9eaec4248639596240db81d919aef407f2c10de0/img/home_page.png)
 
-![Plantillas de la App](https://github.com/MarioPortacio/mind_map_app/blob/f67bf7b7c69f77d54122208dbda4051286b019ba/templates_page.png)
+![Plantillas de la App](https://github.com/MarioPortacio/mind_map_app/blob/9eaec4248639596240db81d919aef407f2c10de0/img/templates_page.png)
 
-![Panel de edición de la App](https://github.com/MarioPortacio/mind_map_app/blob/f67bf7b7c69f77d54122208dbda4051286b019ba/editing.png)
+![Panel de edición de la App](https://github.com/MarioPortacio/mind_map_app/blob/9eaec4248639596240db81d919aef407f2c10de0/img/editing.png)
 
 ## 🎯 Características
 
